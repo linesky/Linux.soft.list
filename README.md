@@ -1,5 +1,4 @@
-# Linux.soft.list
-Bash list all the soft id in a key
-exemple:
-./soft.sh libc
+# hard.bas.boot
+
+hard disk builders to freebasic
 
