@@ -1,4 +1,4 @@
-# hard.bas.boot
+# color.game
 
-hard disk builders to freebasic
+this is a game to learn color names words
 
