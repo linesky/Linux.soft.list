@@ -1,4 +1,5 @@
-# color.game
+# initrd.cpio
 
-this is a game to learn color names words
+initrd new cpio 
+create a image cpio
 
